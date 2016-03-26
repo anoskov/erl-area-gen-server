@@ -1,0 +1,1 @@
+erl -boot start_sasl
